@@ -25,7 +25,7 @@ Open the index.html file in a web browser to access Joke Jive.
 - Listen to the joke as it's converted into speech and have a laugh!
   
 ## How It Works
-The core functionality of JokeJive involves fetching jokes from the JokeAPI and utilizing the VoiceRSS API to convert the text jokes into speech. The JavaScript code in the script.js file drives this process.
+The core functionality of Joke Jive involves fetching jokes from the JokeAPI and utilizing the VoiceRSS API to convert the text jokes into speech. The JavaScript code in the script.js file drives this process.
 
 The application also features an interactive button that triggers the joke-fetching process and disables itself during audio playback for a seamless user experience.
 
